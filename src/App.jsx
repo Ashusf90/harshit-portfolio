@@ -137,8 +137,7 @@ function App() {
                 <img
                   src={profileImage}
                   alt="Harshit Gupta"
-                  className="h-full w-full object-contain object-center transition duration-700 hover:scale-[1.02]"
-                />
+className="h-full w-full object-cover object-top transition duration-700 hover:scale-[1.02]"                />
 
                 {/* Image Overlay */}
                 <div className="pointer-events-none absolute inset-0 bg-linear-to-t from-black/35 via-transparent to-transparent" />
