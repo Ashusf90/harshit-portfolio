@@ -67,7 +67,7 @@ const projects = [
       "A modern learning dashboard featuring live Supabase data, responsive Bento Grid layouts, animated progress tracking, skeleton loading, and polished interactions.",
     tags: ["Next.js", "TypeScript", "Supabase", "Framer Motion"],
     github: "#",
-    demo: "#",
+    demo: "https://nexuslearn-dashboard-o7xm.vercel.app/",
     featured: true,
   },
 
