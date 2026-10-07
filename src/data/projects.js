@@ -19,7 +19,7 @@ const projects = [
       "A system that converts plain-text UI descriptions into structured, renderable React components using a Planner Agent, Explainer Agent, and Renderer architecture.",
     tags: ["Next.js", "TypeScript", "AI Agents", "React"],
     github: "#",
-    demo: "#",
+    demo: "https://ai-powered-ui-generator.vercel.app/",
     featured: true,
   },
 
