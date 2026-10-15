@@ -7,7 +7,7 @@ const projects = [
       "A distributed storage system designed to upload, split, replicate, and retrieve files across multiple storage nodes with metadata management and fault-tolerant communication.",
     tags: ["Node.js", "MongoDB", "REST APIs", "Distributed Systems"],
     github: "#",
-    demo: "#",
+    demo: "https://cloud-mesh-cyan.vercel.app/",
     featured: true,
   },
 
