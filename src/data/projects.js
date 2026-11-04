@@ -25,13 +25,20 @@ const projects = [
 
   {
     number: "03",
-    title: "RAG Document Chatbot",
-    subtitle: "Ask questions about your documents",
+    title: "WorldForge AI",
+    subtitle: "AI-Powered Fantasy Adventure Game",
     description:
-      "A document question-answering application using text chunking, embeddings, vector retrieval, and LLM-powered responses.",
-    tags: ["Python", "RAG", "LangChain", "Embeddings", "Gemini"],
-    github: "#",
-    demo: "#",
+      "An interactive fantasy adventure game powered by Google Gemini, combining RAG-based world knowledge retrieval, AI agents, intelligent planning, and persistent player memory. Players explore a dynamic world with interactive combat, inventory, health, XP, and rewards.",
+    tags: ["Python",
+      "Google Gemini",
+      "Agentic AI",
+      "RAG",
+      "ChromaDB",
+      "Streamlit",
+      "Sentence Transformers",
+      "Pydantic"],
+    github: "https://github.com/Ashusf90/WorldForge-AI",
+    demo: "https://worldforge-aigit-jizr5xg2yj7twljrzb3nat.streamlit.app",
     featured: true,
   },
 
