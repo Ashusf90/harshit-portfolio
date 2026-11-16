@@ -29,7 +29,7 @@ const projects = [
       "Groq"
     ],
     github: "https://github.com/Ashusf90/CodeCompass",
-    demo: "#",
+    demo: "https://code-compass-nine.vercel.app/",
     featured: true,
   },
   {
@@ -66,7 +66,7 @@ const projects = [
     "Streamlit"
   ],
   github: "https://github.com/Ashusf90/Doomscroll-Detector",
-  demo: "#",
+  demo: "https://doomscroll-detector-a6xueptirftsoz6ezdk7hz.streamlit.app/",
   featured: true,
 },
 
