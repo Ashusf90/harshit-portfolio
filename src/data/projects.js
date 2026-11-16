@@ -13,16 +13,25 @@ const projects = [
 
   {
     number: "02",
-    title: "AI-Powered UI Generator",
-    subtitle: "Prompt → AI → UI",
+    title: "CodeCompass",
+    subtitle: "AI-Powered GitHub Repository Assistant",
     description:
-      "A system that converts plain-text UI descriptions into structured, renderable React components using a Planner Agent, Explainer Agent, and Renderer architecture.",
-    tags: ["Next.js", "TypeScript", "AI Agents", "React"],
-    github: "#",
-    demo: "https://ai-powered-ui-generator.vercel.app/",
+      "An AI-powered platform that analyzes GitHub repositories and answers codebase questions using RAG, hybrid semantic and keyword search, and grounded responses with file paths and line-level citations. Features repository indexing, authenticated access, and streaming chat with conversation history.",
+    tags: [
+      "Python",
+      "FastAPI",
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "pgvector",
+      "RAG",
+      "Hybrid Search",
+      "Groq"
+    ],
+    github: "https://github.com/Ashusf90/CodeCompass",
+    demo: "#",
     featured: true,
   },
-
   {
     number: "03",
     title: "WorldForge AI",
@@ -42,8 +51,42 @@ const projects = [
     featured: true,
   },
 
+  
+{
+  number: "04",
+  title: "Doomscroll Detector",
+  subtitle: "AI-Powered Phone Usage Monitoring",
+  description:
+    "A computer vision application that monitors phone usage through a webcam using YOLO and OpenCV. Detects phone usage in real time and tracks detection duration through an interactive Streamlit dashboard, helping users become more aware of their screen-time habits.",
+  tags: [
+    "Python",
+    "YOLO",
+    "OpenCV",
+    "Computer Vision",
+    "Streamlit"
+  ],
+  github: "https://github.com/Ashusf90/Doomscroll-Detector",
+  demo: "#",
+  featured: true,
+},
+
+
   {
-    number: "04",
+    number: "05",
+    title: "AI-Powered UI Generator",
+    subtitle: "Prompt → AI → UI",
+    description:
+      "A system that converts plain-text UI descriptions into structured, renderable React components using a Planner Agent, Explainer Agent, and Renderer architecture.",
+    tags: ["Next.js", "TypeScript", "AI Agents", "React"],
+    github: "#",
+    demo: "https://ai-powered-ui-generator.vercel.app/",
+    featured: true,
+  },
+
+  
+
+  {
+    number: "06",
     title: "AI PDF Summarizer",
     subtitle: "Documents → AI-generated insights",
     description:
@@ -55,7 +98,7 @@ const projects = [
   },
 
   {
-    number: "05",
+    number: "07",
     title: "AI Interview Copilot",
     subtitle: "AI-powered interview preparation",
     description:
@@ -67,7 +110,7 @@ const projects = [
   },
 
   {
-    number: "06",
+    number: "08",
     title: "NexusLearn",
     subtitle: "Futuristic Learning Dashboard",
     description:
@@ -79,7 +122,7 @@ const projects = [
   },
 
   {
-    number: "07",
+    number: "09",
     title: "Cling Homepage Redesign",
     subtitle: "Modern IT company homepage",
     description:
@@ -91,7 +134,7 @@ const projects = [
   },
 
   {
-    number: "08",
+    number: "10",
     title: "Task Management REST API",
     subtitle: "Tested backend service",
     description:
@@ -103,7 +146,7 @@ const projects = [
   },
 
   {
-    number: "09",
+    number: "11",
     title: "Pizza Delivery Application",
     subtitle: "Full-stack ordering platform",
     description:
@@ -115,7 +158,7 @@ const projects = [
   },
 
   {
-    number: "10",
+    number: "12",
     title: "Blogging Application",
     subtitle: "Full-stack blogging platform",
     description:
@@ -127,7 +170,7 @@ const projects = [
   },
 
   {
-    number: "11",
+    number: "13",
     title: "URL Shortener",
     subtitle: "Simple link management service",
     description:
@@ -139,7 +182,7 @@ const projects = [
   },
 
   {
-    number: "12",
+    number: "14",
     title: "QR Code Generator",
     subtitle: "Utility application",
     description:
